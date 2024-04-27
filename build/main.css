@@ -1,0 +1,41 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+select,
+textarea {
+  background-color: transparent;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3B1YmxpYy9zYXNzL2Jhc2UvX3Jlc2V0LnNjc3MiLCIuLi9wdWJsaWMvY3NzL21haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7RUFJQyxzQkFBQTtBQ0NEOztBQUVBO0VEQUksU0FBUztFQUNULFVBQU07RUFDVCxhQUFBO0FDRUQ7O0FEQUE7Ozs7RUFJSSxjQUFXO0VBQ2QsZUFBQTtBQ0dEOztBRERBOzs7RUFHSSw2QkFBYTtFQUNoQixhQUFBO0FDSUQ7O0FBRUE7RURISSxlQUFBO0VBQ0EsNkJBQWE7RUFDYixhQUFTO0VBQ1osU0FBQTtBQ0tEOztBQUVBO0VESkksaUJBQWdCO0VBQ2hCLGdCQUFlO0VBQ2YsZUFBYztFQUNqQixjQUFBO0FDTUQiLCJmaWxlIjoibWFpbi5jc3MifQ== */
